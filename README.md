@@ -52,8 +52,11 @@ To run this project locally:
      npm run dev
 5. **Open http://localhost:5173 to view it in your browser**
 
+---
 
 ## 📂 Project Structure Overview
+
+```plaintext
 my-portfolio-website/
 ├── public/
 ├── src/
@@ -63,18 +66,24 @@ my-portfolio-website/
 ├── tailwind.config.js
 ├── vite.config.ts
 └── ...
-
+```
+---
 
 ## 🌐 Live Demo
 👉 [Visit my Portfolio Website](https://verdant-clafoutis-ad021d.netlify.app/)
+
+---
 
 ## 📸 Preview
 ![Hero Page](https://ibb.co/rfztTqXM)
 ![Projects](https://ibb.co/bg51Tptb)
 
+---
 
 ## 📄 License
 This project is licensed for personal use.
 Feel free to explore and get inspired! ✨
+
+---
 
 ## 🔥 Made with passion by Manaswi Patil
