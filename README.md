@@ -8,7 +8,7 @@
 ---
 
 Welcome to my personal portfolio website!  
-This project showcases my journey, skills, and projects in the world of Data Science, Web Development, and Research.
+This project showcases my journey, skills, and projects in the world of Artificial Intelligence, Web Development, and Research.
 
 ---
 
