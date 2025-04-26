@@ -75,8 +75,9 @@ my-portfolio-website/
 ---
 
 ## 📸 Preview
-![Hero Page](https://ibb.co/rfztTqXM)
-![Projects](https://ibb.co/bg51Tptb)
+![Screenshot 2025-04-26 230853](https://github.com/user-attachments/assets/fc0b92b4-59b2-495b-918b-1ab05cd7a476)
+
+![Screenshot 2025-04-26 230945](https://github.com/user-attachments/assets/73971ea6-4f12-4a11-894e-908e5db757df)
 
 ---
 
